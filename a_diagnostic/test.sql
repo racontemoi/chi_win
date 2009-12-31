@@ -1,0 +1,4 @@
+STATUS;
+show databases;
+
+exit
